@@ -1,0 +1,6 @@
+{
+  "name": "MizanDefter",
+  "description": "Gelir-gider takibi, veri girişi ve aylık kâr-zarar raporu oluşturma uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
